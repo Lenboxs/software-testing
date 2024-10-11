@@ -1,0 +1,16 @@
+C:\Users\Leonard Botha\AppData\Local\Temporary Projects\SoundTest2\bin\Debug\SoundTest2.exe
+C:\Users\Leonard Botha\AppData\Local\Temporary Projects\SoundTest2\bin\Debug\SoundTest2.pdb
+C:\Users\Leonard Botha\AppData\Local\Temporary Projects\SoundTest2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leonard Botha\AppData\Local\Temporary Projects\SoundTest2\obj\Debug\SoundTest2.Form1.resources
+C:\Users\Leonard Botha\AppData\Local\Temporary Projects\SoundTest2\obj\Debug\SoundTest2.Properties.Resources.resources
+C:\Users\Leonard Botha\AppData\Local\Temporary Projects\SoundTest2\obj\Debug\SoundTest2.csproj.GenerateResource.Cache
+C:\Users\Leonard Botha\AppData\Local\Temporary Projects\SoundTest2\obj\Debug\SoundTest2.exe
+C:\Users\Leonard Botha\AppData\Local\Temporary Projects\SoundTest2\obj\Debug\SoundTest2.pdb
+C:\Users\Leonard Botha\Documents\Visual Studio 2008\Projects\SoundTest2\SoundTest2\obj\Debug\SoundTest2.exe
+C:\Users\Leonard Botha\Documents\Visual Studio 2008\Projects\SoundTest2\SoundTest2\obj\Debug\SoundTest2.pdb
+C:\Users\Leonard Botha\Documents\Visual Studio 2008\Projects\SoundTest2\SoundTest2\bin\Debug\SoundTest2.exe
+C:\Users\Leonard Botha\Documents\Visual Studio 2008\Projects\SoundTest2\SoundTest2\bin\Debug\SoundTest2.pdb
+C:\Users\Leonard Botha\Documents\Visual Studio 2008\Projects\SoundTest2\SoundTest2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leonard Botha\Documents\Visual Studio 2008\Projects\SoundTest2\SoundTest2\obj\Debug\SoundTest2.Form1.resources
+C:\Users\Leonard Botha\Documents\Visual Studio 2008\Projects\SoundTest2\SoundTest2\obj\Debug\SoundTest2.Properties.Resources.resources
+C:\Users\Leonard Botha\Documents\Visual Studio 2008\Projects\SoundTest2\SoundTest2\obj\Debug\SoundTest2.csproj.GenerateResource.Cache
